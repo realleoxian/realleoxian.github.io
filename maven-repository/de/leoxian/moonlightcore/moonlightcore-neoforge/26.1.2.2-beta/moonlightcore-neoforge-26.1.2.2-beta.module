@@ -1,0 +1,121 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.leoxian.moonlightcore",
+    "module": "moonlightcore-neoforge",
+    "version": "26.1.2.2-beta",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.6.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "moonlightcore-neoforge-26.1.2.2-beta.jar",
+          "url": "moonlightcore-neoforge-26.1.2.2-beta.jar",
+          "size": 415535,
+          "sha512": "929943d4b502b1922376e717b59e0714a138b156afe850b839f75ee4c52816eefd81f38d05ce041ce87759c20698c35947530318b45070d2d060b917c28e27e6",
+          "sha256": "51135a661c5fdacec516c60966629d3555e59728ec706cef805752d77ec9df41",
+          "sha1": "0bcbf5c04eaf996b26f4d5c614448c1068dd9fbb",
+          "md5": "6ae268f65725f128583956436882aaec"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "moonlightcore-neoforge-26.1.2.2-beta.jar",
+          "url": "moonlightcore-neoforge-26.1.2.2-beta.jar",
+          "size": 415535,
+          "sha512": "929943d4b502b1922376e717b59e0714a138b156afe850b839f75ee4c52816eefd81f38d05ce041ce87759c20698c35947530318b45070d2d060b917c28e27e6",
+          "sha256": "51135a661c5fdacec516c60966629d3555e59728ec706cef805752d77ec9df41",
+          "sha1": "0bcbf5c04eaf996b26f4d5c614448c1068dd9fbb",
+          "md5": "6ae268f65725f128583956436882aaec"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "moonlightcore-neoforge-26.1.2.2-beta-sources.jar",
+          "url": "moonlightcore-neoforge-26.1.2.2-beta-sources.jar",
+          "size": 173271,
+          "sha512": "e210be7123220f5ce9790ee10ba907e4df3bc136cbc63e2ad9ec0908c3b27e7428b9e009cc060cc3b2a6fb1362ce25485c9b9cea27c751955027e066277262d1",
+          "sha256": "8fdc569cc4a120ae0ed2601f0c411797643a6cfdb186c8c2b090f3dd34d6aeaf",
+          "sha1": "f9160730e335308f7dd9bea35dbded034c3762ce",
+          "md5": "3690618c723ac88c96cc78e72d4b5d9d"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "moonlightcore-neoforge-26.1.2.2-beta-javadoc.jar",
+          "url": "moonlightcore-neoforge-26.1.2.2-beta-javadoc.jar",
+          "size": 5412230,
+          "sha512": "19d7e70516eb792d7b19dc155f97c04e81555644059c86c6e825e60a6f5ea348377191de013e908a4651127012f707a4f3050f3759241823ae3a603e169c0f8e",
+          "sha256": "1670007fac1fe35ad47d4605570b19ab71a9a21ab4b065373c647b72de669ad1",
+          "sha1": "2aa1dfb748cb4a7394e2c599aecbded02b297134",
+          "md5": "ee91928cb8b575edcb0fea81858e507c"
+        }
+      ]
+    },
+    {
+      "name": "accessTransformersElements",
+      "attributes": {
+        "org.gradle.category": "accesstransformer"
+      },
+      "files": [
+        {
+          "name": "moonlightcore-neoforge-26.1.2.2-beta-accesstransformer.cfg",
+          "url": "moonlightcore-neoforge-26.1.2.2-beta-accesstransformer.cfg",
+          "size": 0,
+          "sha512": "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e",
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+          "md5": "d41d8cd98f00b204e9800998ecf8427e"
+        }
+      ]
+    }
+  ]
+}
