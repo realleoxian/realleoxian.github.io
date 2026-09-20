@@ -3,14 +3,15 @@
   <groupId>de.leoxian.moonlightcore</groupId>
   <artifactId>moonlightcore-fabric</artifactId>
   <versioning>
-    <latest>26.1.2.6-beta</latest>
-    <release>26.1.2.6-beta</release>
+    <latest>26.1.2.7-beta</latest>
+    <release>26.1.2.7-beta</release>
     <versions>
       <version>26.1.2.2-beta</version>
       <version>26.1.2.3-beta</version>
       <version>26.1.2.5-beta</version>
       <version>26.1.2.6-beta</version>
+      <version>26.1.2.7-beta</version>
     </versions>
-    <lastUpdated>20260919155607</lastUpdated>
+    <lastUpdated>20260920152505</lastUpdated>
   </versioning>
 </metadata>
