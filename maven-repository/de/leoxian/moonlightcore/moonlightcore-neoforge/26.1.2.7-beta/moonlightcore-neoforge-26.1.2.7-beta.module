@@ -28,11 +28,11 @@
         {
           "name": "moonlightcore-neoforge-26.1.2.7-beta.jar",
           "url": "moonlightcore-neoforge-26.1.2.7-beta.jar",
-          "size": 485967,
-          "sha512": "9072509a4e2648077b686f7d4fe6b19c7f04b21d10a364cd11faebbc1c2beebf34febccc99fff9f89173acb3570f383208771bfd27cb5e88c84b06dc9098fffa",
-          "sha256": "3008fd75cbd219799d8783fc8eee2d9aeac84ba1fd9e4b4bb43e88ad98fe99d2",
-          "sha1": "515c7788c4d9f152f2daa9eca9ccc4b4d199295a",
-          "md5": "4dd7424230d55bd14b3bcf5dc9993d60"
+          "size": 486497,
+          "sha512": "063e5a4b8e7e86a3423b26aa04ac8c0f93eee7806e5fc888a03c35eff3d608fc057829a020461f75724fde006039d2f1111875a5a99831abcf49f4602ce7e34f",
+          "sha256": "02534e12ab408924f7c169a22c690b50a1effc5e6574ecaa30d65d6e8ef5d70a",
+          "sha1": "cce2e7498f17d653e41a3262c593158d843a4a5f",
+          "md5": "c0e8e2b5c335ad9d4ba7365a26911629"
         }
       ]
     },
@@ -50,11 +50,11 @@
         {
           "name": "moonlightcore-neoforge-26.1.2.7-beta.jar",
           "url": "moonlightcore-neoforge-26.1.2.7-beta.jar",
-          "size": 485967,
-          "sha512": "9072509a4e2648077b686f7d4fe6b19c7f04b21d10a364cd11faebbc1c2beebf34febccc99fff9f89173acb3570f383208771bfd27cb5e88c84b06dc9098fffa",
-          "sha256": "3008fd75cbd219799d8783fc8eee2d9aeac84ba1fd9e4b4bb43e88ad98fe99d2",
-          "sha1": "515c7788c4d9f152f2daa9eca9ccc4b4d199295a",
-          "md5": "4dd7424230d55bd14b3bcf5dc9993d60"
+          "size": 486497,
+          "sha512": "063e5a4b8e7e86a3423b26aa04ac8c0f93eee7806e5fc888a03c35eff3d608fc057829a020461f75724fde006039d2f1111875a5a99831abcf49f4602ce7e34f",
+          "sha256": "02534e12ab408924f7c169a22c690b50a1effc5e6574ecaa30d65d6e8ef5d70a",
+          "sha1": "cce2e7498f17d653e41a3262c593158d843a4a5f",
+          "md5": "c0e8e2b5c335ad9d4ba7365a26911629"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "moonlightcore-neoforge-26.1.2.7-beta-sources.jar",
           "url": "moonlightcore-neoforge-26.1.2.7-beta-sources.jar",
-          "size": 208591,
-          "sha512": "d9cf27a3185dd8b681b7ab882ce51c8b0a88f6a851bdab726c313f59d6d490a752133b2f4dc84c5ceae2e1ae92215e42ce3a0316d7ea8f620300be9ef7fc6abf",
-          "sha256": "86c82e83f8ac7f62fb5c59e2aac2a47a8f2dd8905bc4af752f00f73c9dd923e9",
-          "sha1": "43ca87a52d1f32570688f906e8445391cc00620a",
-          "md5": "7ba584ebd103965cf1c02a9763e9a3ce"
+          "size": 208068,
+          "sha512": "45c6ec3f304b859b16687c100bae3eca232e5d63d1f43d1a1f50e0792344d08113a38bbc712c8ee1b98c2cf5b8dc4e6821a1930116fbc96c97e450b808fe9ffd",
+          "sha256": "e83ed167eff9da6bb92c64495840b9bba5de763a607d7dc097976083f4364f2c",
+          "sha1": "6c5cfdb5480f3c4b3942dc8bf2829ce589c111d5",
+          "md5": "0e6567f64ef12421e4e9c953b79ffd94"
         }
       ]
     },
@@ -92,11 +92,11 @@
         {
           "name": "moonlightcore-neoforge-26.1.2.7-beta-javadoc.jar",
           "url": "moonlightcore-neoforge-26.1.2.7-beta-javadoc.jar",
-          "size": 5598721,
-          "sha512": "0a7915e27ee10572939c34811d6f9d01ce3be4bf63f01ce767da670a67eca6e7b1a06c4330cb05b628b2c814a04138a142b4f52e5d6ec6bc9a9f816793b65298",
-          "sha256": "87eda44e1b1f1c849fa238384c0fa6427e24caec3a9b8e24374f9196e4dd280e",
-          "sha1": "2d1b15ac823733cd81b703eb1caaa94b0b93ff6a",
-          "md5": "40686afa9235a724508c6ba78d25d40c"
+          "size": 5600740,
+          "sha512": "442685c0f2f6cdb51733b60c4f2e975830f424b282456a1778046c65fb2bedee19b412612e121ef3bb78de25779f8776622c7da7d6a9db55f7ac54ca78e6d6ad",
+          "sha256": "754221463dd5e1e36db776bac620465ef814b0ab27ba3e6c88511057f1b5cd88",
+          "sha1": "f54385bcd22f4285c5191c089e4fea196a39a8cd",
+          "md5": "715e77025b9876f266707bf6557e1094"
         }
       ]
     },
