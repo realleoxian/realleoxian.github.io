@@ -28,11 +28,11 @@
         {
           "name": "moonlightcore-xplat-26.1.2.7-beta.jar",
           "url": "moonlightcore-xplat-26.1.2.7-beta.jar",
-          "size": 356383,
-          "sha512": "2068538fe6a2beeb5b50367e1ff1154a927214154506e6ae176aec4db589a4b2d364e43c674e7a3993bfff72093fe4293fb794f0cec7f99f9d319030c4d46647",
-          "sha256": "ab093cf3c32f35e7b422435626171c15a557d89cc9f00e3fa05a46327547b2f6",
-          "sha1": "54e8da3f112ab2538d380561be7f3a47b1ea6523",
-          "md5": "278e6188b71dc904156bb22b25c61c19"
+          "size": 356386,
+          "sha512": "b2839b7d8ae95383146b5d865c59b16aa4691f9bf949b88b88f369b7c80295b41682bb1aad7c9bb1dcc5dcc8f71892c4c99b98be2c690f65f884223b223bce62",
+          "sha256": "0e983eee3fd09f8b7514d79bc7258b86905604bffd65371783cd5892efaf1029",
+          "sha1": "0b6987d29b114b53dfa96e46566e082ef89eed27",
+          "md5": "6ead53b860e0da15313d5eed6f554cde"
         }
       ]
     },
@@ -50,11 +50,11 @@
         {
           "name": "moonlightcore-xplat-26.1.2.7-beta.jar",
           "url": "moonlightcore-xplat-26.1.2.7-beta.jar",
-          "size": 356383,
-          "sha512": "2068538fe6a2beeb5b50367e1ff1154a927214154506e6ae176aec4db589a4b2d364e43c674e7a3993bfff72093fe4293fb794f0cec7f99f9d319030c4d46647",
-          "sha256": "ab093cf3c32f35e7b422435626171c15a557d89cc9f00e3fa05a46327547b2f6",
-          "sha1": "54e8da3f112ab2538d380561be7f3a47b1ea6523",
-          "md5": "278e6188b71dc904156bb22b25c61c19"
+          "size": 356386,
+          "sha512": "b2839b7d8ae95383146b5d865c59b16aa4691f9bf949b88b88f369b7c80295b41682bb1aad7c9bb1dcc5dcc8f71892c4c99b98be2c690f65f884223b223bce62",
+          "sha256": "0e983eee3fd09f8b7514d79bc7258b86905604bffd65371783cd5892efaf1029",
+          "sha1": "0b6987d29b114b53dfa96e46566e082ef89eed27",
+          "md5": "6ead53b860e0da15313d5eed6f554cde"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "moonlightcore-xplat-26.1.2.7-beta-sources.jar",
           "url": "moonlightcore-xplat-26.1.2.7-beta-sources.jar",
-          "size": 158530,
-          "sha512": "b32af4a0f373107e73b49cc944812e4d3f8a013a8290b1cb88aec2146d359903344fea5a13f282196affbf49c9a4d3d9fd0f84cbcca8938179bccaf1ffc15154",
-          "sha256": "7e2ab95b01ff4b3fa3c6d56d0bc8b8f447d1f3d6cfcffbae5c2d22d8ffe3aaea",
-          "sha1": "a4da9272da4c539d92b350c6d172df28f1cdce3d",
-          "md5": "62caa99fbe4c08cb9a59a372a9e00e18"
+          "size": 158516,
+          "sha512": "87e79f39ff88c03412d6f40cf5773076aaeab62079a7617d2d0414a9a0dae9a8d30ec0d380e6d49c7218ffddc8eced6e9b268c5d5625abf8e00e09b6d056d937",
+          "sha256": "0354a545d76e546d54cd718845fcd80de8938d9ef739fd4237e9ab698a81219e",
+          "sha1": "5268ed9445ad7c0db46adab8cb3659b843602cdf",
+          "md5": "1255192aa1bfcda8cf769e123be15125"
         }
       ]
     },

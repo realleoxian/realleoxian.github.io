@@ -28,11 +28,11 @@
         {
           "name": "moonlightcore-fabric-26.1.2.7-beta.jar",
           "url": "moonlightcore-fabric-26.1.2.7-beta.jar",
-          "size": 484467,
-          "sha512": "3ec3ff052c7b780c31126bb70855cad8001b62e384fff12b39361d12706da9c79bef94fac6b3cfffd5ff8058cdcfa74be59fd6ad5775e484347aa35eeb9e56f6",
-          "sha256": "b3d547c269eebdad1c06cb07e364aaa42096ffc051c5131a5e3c7fec1b634061",
-          "sha1": "ed900b27a54fb3996cc361ad6b67807730138e77",
-          "md5": "e22c6e1dbab50e10adc1254da2911655"
+          "size": 484470,
+          "sha512": "42261ad3c5a14a0ced55ce0e58b1e8994e9b0a975518c5fbca25edb19d16ffbc593c94bebcb8d98c7403de03b3e5fb67692306a8b5df03afd6aa6816aa2ffda9",
+          "sha256": "779629d1d7241c09e92e28906a4f304cd0e315bf9072205fbcd110798b2e33f9",
+          "sha1": "acd4a8b00437ec8c2f588522b67bf8da87096955",
+          "md5": "2992f62b193e51667639c34b9e711f59"
         }
       ]
     },
@@ -73,11 +73,11 @@
         {
           "name": "moonlightcore-fabric-26.1.2.7-beta.jar",
           "url": "moonlightcore-fabric-26.1.2.7-beta.jar",
-          "size": 484467,
-          "sha512": "3ec3ff052c7b780c31126bb70855cad8001b62e384fff12b39361d12706da9c79bef94fac6b3cfffd5ff8058cdcfa74be59fd6ad5775e484347aa35eeb9e56f6",
-          "sha256": "b3d547c269eebdad1c06cb07e364aaa42096ffc051c5131a5e3c7fec1b634061",
-          "sha1": "ed900b27a54fb3996cc361ad6b67807730138e77",
-          "md5": "e22c6e1dbab50e10adc1254da2911655"
+          "size": 484470,
+          "sha512": "42261ad3c5a14a0ced55ce0e58b1e8994e9b0a975518c5fbca25edb19d16ffbc593c94bebcb8d98c7403de03b3e5fb67692306a8b5df03afd6aa6816aa2ffda9",
+          "sha256": "779629d1d7241c09e92e28906a4f304cd0e315bf9072205fbcd110798b2e33f9",
+          "sha1": "acd4a8b00437ec8c2f588522b67bf8da87096955",
+          "md5": "2992f62b193e51667639c34b9e711f59"
         }
       ]
     },
@@ -94,11 +94,11 @@
         {
           "name": "moonlightcore-fabric-26.1.2.7-beta-sources.jar",
           "url": "moonlightcore-fabric-26.1.2.7-beta-sources.jar",
-          "size": 212808,
-          "sha512": "87451f711b60d687edf045dc4b797871463153ad4123cbe63c6b4f5a8215371ba9bb366908e3e0b87b01f9d7e4db056039a18a811ca3cbfe8b641385c14e0615",
-          "sha256": "2f55f316e30305d7bbac312b49cce315b1a653d256ee6f192574d53808ac5059",
-          "sha1": "ebdda072d34d22e5c7d5adc6b95f8d21d85f87dc",
-          "md5": "24bd22cf731ea660a86805609e361b43"
+          "size": 212794,
+          "sha512": "e6f3355a5218a4db08d8b4a56498e302be745b20baa441e9778b1bd631573ade996e31f9290cc40ae7236a2bf3c8666493f15345ad01736036d591f2b09dbcea",
+          "sha256": "b6c69719e8b28b4a4d41966fd9c03c30de3570dbe87295e8768948d05a3edb87",
+          "sha1": "60d5a7dd1bffa12f7b08d5e021001b2a83c03943",
+          "md5": "57b56aef06c5c79cf9df6c7104e81201"
         }
       ]
     },

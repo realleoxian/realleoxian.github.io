@@ -28,11 +28,11 @@
         {
           "name": "moonlightcore-neoforge-26.1.2.7-beta.jar",
           "url": "moonlightcore-neoforge-26.1.2.7-beta.jar",
-          "size": 485964,
-          "sha512": "0827867e7aa75510c9320979acde487b3c60416edc4e49b2eac4947dcc308e581c58145a4e7ef0925b2c2e80036b1c605e7a206a089e631f9a532ef75975a151",
-          "sha256": "38fe2398ddfa13da77d99a63dbe4e25b27a90b7edf189b65450efa67faacb013",
-          "sha1": "76e6d5cf480b82e373aeb5533f12b4afcc3a927b",
-          "md5": "45eae2ce0cd093b7e987cc8d666ace5c"
+          "size": 485967,
+          "sha512": "9072509a4e2648077b686f7d4fe6b19c7f04b21d10a364cd11faebbc1c2beebf34febccc99fff9f89173acb3570f383208771bfd27cb5e88c84b06dc9098fffa",
+          "sha256": "3008fd75cbd219799d8783fc8eee2d9aeac84ba1fd9e4b4bb43e88ad98fe99d2",
+          "sha1": "515c7788c4d9f152f2daa9eca9ccc4b4d199295a",
+          "md5": "4dd7424230d55bd14b3bcf5dc9993d60"
         }
       ]
     },
@@ -50,11 +50,11 @@
         {
           "name": "moonlightcore-neoforge-26.1.2.7-beta.jar",
           "url": "moonlightcore-neoforge-26.1.2.7-beta.jar",
-          "size": 485964,
-          "sha512": "0827867e7aa75510c9320979acde487b3c60416edc4e49b2eac4947dcc308e581c58145a4e7ef0925b2c2e80036b1c605e7a206a089e631f9a532ef75975a151",
-          "sha256": "38fe2398ddfa13da77d99a63dbe4e25b27a90b7edf189b65450efa67faacb013",
-          "sha1": "76e6d5cf480b82e373aeb5533f12b4afcc3a927b",
-          "md5": "45eae2ce0cd093b7e987cc8d666ace5c"
+          "size": 485967,
+          "sha512": "9072509a4e2648077b686f7d4fe6b19c7f04b21d10a364cd11faebbc1c2beebf34febccc99fff9f89173acb3570f383208771bfd27cb5e88c84b06dc9098fffa",
+          "sha256": "3008fd75cbd219799d8783fc8eee2d9aeac84ba1fd9e4b4bb43e88ad98fe99d2",
+          "sha1": "515c7788c4d9f152f2daa9eca9ccc4b4d199295a",
+          "md5": "4dd7424230d55bd14b3bcf5dc9993d60"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "moonlightcore-neoforge-26.1.2.7-beta-sources.jar",
           "url": "moonlightcore-neoforge-26.1.2.7-beta-sources.jar",
-          "size": 208605,
-          "sha512": "371786fdcbfb2e30670f748e30f20ca2ec365b8ff6bbbb60b308db41e20426b8f70c9602b9e1adaacd7d2d1e3a555bdfe63014e76d5aa78cd504963c114fd69e",
-          "sha256": "1ceb7bfa9385e0d2c634899a2b74ab328df8b189b95fe265ffd234ef28efdc4d",
-          "sha1": "5f72675e1d77ff0dfe461eba15d54bb6d71ea94f",
-          "md5": "296ffe6bd1bfd87a0a5d345f21ef62ee"
+          "size": 208591,
+          "sha512": "d9cf27a3185dd8b681b7ab882ce51c8b0a88f6a851bdab726c313f59d6d490a752133b2f4dc84c5ceae2e1ae92215e42ce3a0316d7ea8f620300be9ef7fc6abf",
+          "sha256": "86c82e83f8ac7f62fb5c59e2aac2a47a8f2dd8905bc4af752f00f73c9dd923e9",
+          "sha1": "43ca87a52d1f32570688f906e8445391cc00620a",
+          "md5": "7ba584ebd103965cf1c02a9763e9a3ce"
         }
       ]
     },
