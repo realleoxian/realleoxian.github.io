@@ -1,0 +1,121 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.leoxian.moonlightcore",
+    "module": "moonlightcore-xplat",
+    "version": "26.1.2.9-beta",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.6.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "common",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "moonlightcore-xplat-26.1.2.9-beta.jar",
+          "url": "moonlightcore-xplat-26.1.2.9-beta.jar",
+          "size": 360783,
+          "sha512": "2219d08dd4d0e9b328b52da6413e1dff6f701722152afccbb77c28d959d9ec54428856ae4825f946505799bf71463c1359b18c7ca79d05b5f62ff8deb0cac2d7",
+          "sha256": "ad713be2d4ea5180e8fa06f75f00931b7975b34aa6d60245f3519c6b94fc0f05",
+          "sha1": "a608326cbd24fe28505b0458b50af95295d6fff1",
+          "md5": "f9ef66d016d04fde7530ba9e0c924a78"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "common",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "moonlightcore-xplat-26.1.2.9-beta.jar",
+          "url": "moonlightcore-xplat-26.1.2.9-beta.jar",
+          "size": 360783,
+          "sha512": "2219d08dd4d0e9b328b52da6413e1dff6f701722152afccbb77c28d959d9ec54428856ae4825f946505799bf71463c1359b18c7ca79d05b5f62ff8deb0cac2d7",
+          "sha256": "ad713be2d4ea5180e8fa06f75f00931b7975b34aa6d60245f3519c6b94fc0f05",
+          "sha1": "a608326cbd24fe28505b0458b50af95295d6fff1",
+          "md5": "f9ef66d016d04fde7530ba9e0c924a78"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "common",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "moonlightcore-xplat-26.1.2.9-beta-sources.jar",
+          "url": "moonlightcore-xplat-26.1.2.9-beta-sources.jar",
+          "size": 158621,
+          "sha512": "7f2f9e4e860fa353b863654d3679bb051d4e0d2b782d7d6aa2cd8662a2dd4febac09bb7f565909c7c5a8375b27eaff9f7a29f995c9ec705c7ecc17cf1537e654",
+          "sha256": "ee215795675171cf656a5270bfba72f39bab800877f0a3f8e16d6bb3361cb3a4",
+          "sha1": "7f24010d697fa6291e0c81194528f3ab4bdd211c",
+          "md5": "2c15e8d1aad8989edd642c40ffb3d924"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "common",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "moonlightcore-xplat-26.1.2.9-beta-javadoc.jar",
+          "url": "moonlightcore-xplat-26.1.2.9-beta-javadoc.jar",
+          "size": 5304305,
+          "sha512": "1b1990eead2b2e5aff40470265bdfbc3ce691cd736113c404d61104f45b99482e99d4273a0ad47bacc18ba57a91a844f1c2ca68cc07e7f01a9641ce9656eca25",
+          "sha256": "f510bf288bda95e2c961dc0363674d7df716a209cc5a64990a9547373d64f5b2",
+          "sha1": "e810b996e14e26dd87dec39d3a8938cd07ad011c",
+          "md5": "8a23d8d0d799a01d38c9573d2c40d8d4"
+        }
+      ]
+    },
+    {
+      "name": "accessTransformersElements",
+      "attributes": {
+        "org.gradle.category": "accesstransformer"
+      },
+      "files": [
+        {
+          "name": "moonlightcore-xplat-26.1.2.9-beta-accesstransformer.cfg",
+          "url": "moonlightcore-xplat-26.1.2.9-beta-accesstransformer.cfg",
+          "size": 0,
+          "sha512": "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e",
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+          "md5": "d41d8cd98f00b204e9800998ecf8427e"
+        }
+      ]
+    }
+  ]
+}

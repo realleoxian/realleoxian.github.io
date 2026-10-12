@@ -1,0 +1,127 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.leoxian.moonlightcore",
+    "module": "moonlightcore-fabric",
+    "version": "26.1.2.9-beta",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.6.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "fabric",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "moonlightcore-fabric-26.1.2.9-beta.jar",
+          "url": "moonlightcore-fabric-26.1.2.9-beta.jar",
+          "size": 499620,
+          "sha512": "95b104a748d7e914a0b7f6bee98b7542df5240015365767936f73c44bf1dc08cdcfd8f2f64493f4e88d827a4f2a834089cffc1a3cd26627603545dd0e4101a8e",
+          "sha256": "3862f38f2fcbc4518c4b2c9c36bcdf0b300e4d03a5119db34b4ebe11950d410b",
+          "sha1": "d8881c8c5eb9910a68493717cbecbe6f251d6659",
+          "md5": "2ce26f3170d72330ed302ab15256cdbc"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "fabric",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.19.2"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.155.3+26.1.2"
+          }
+        },
+        {
+          "group": "me.lucko",
+          "module": "fabric-permissions-api",
+          "version": {
+            "requires": "0.7.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "moonlightcore-fabric-26.1.2.9-beta.jar",
+          "url": "moonlightcore-fabric-26.1.2.9-beta.jar",
+          "size": 499620,
+          "sha512": "95b104a748d7e914a0b7f6bee98b7542df5240015365767936f73c44bf1dc08cdcfd8f2f64493f4e88d827a4f2a834089cffc1a3cd26627603545dd0e4101a8e",
+          "sha256": "3862f38f2fcbc4518c4b2c9c36bcdf0b300e4d03a5119db34b4ebe11950d410b",
+          "sha1": "d8881c8c5eb9910a68493717cbecbe6f251d6659",
+          "md5": "2ce26f3170d72330ed302ab15256cdbc"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "fabric",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "moonlightcore-fabric-26.1.2.9-beta-sources.jar",
+          "url": "moonlightcore-fabric-26.1.2.9-beta-sources.jar",
+          "size": 216344,
+          "sha512": "912394ba15152289274407342ca4f84ef73152fa8f40717bb0f282ddc8336638156f7864176f5460678850fd4eae40eb38391dad9fb2a8df0deb689053810cde",
+          "sha256": "f5254dcc73f09773c3212163b84ea3bf6160405b92e8ddce5233cb73405f6410",
+          "sha1": "862667b2a0070bf10606066541c3fa9f9da3d3ba",
+          "md5": "bdee397ec1d24387152521e3db3e84f2"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "fabric",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "moonlightcore-fabric-26.1.2.9-beta-javadoc.jar",
+          "url": "moonlightcore-fabric-26.1.2.9-beta-javadoc.jar",
+          "size": 5672697,
+          "sha512": "6927418a43d288214f5da5a61edb9ba596f64d6188fbf58fff9e932f1b4580fa6fe7ae5a903a8fece5468f56a7814036e0ab9ae8db15f1c6db55a48e181bba8a",
+          "sha256": "ac55ab5c5a23817a88f55ab831a3c0e3c29f323a6aa9e66f16d656b631e2ab54",
+          "sha1": "585437302ad87fa5adb30b96ada3efca14be837a",
+          "md5": "e1f4350c5359e7087be2f6b98c9df843"
+        }
+      ]
+    }
+  ]
+}
