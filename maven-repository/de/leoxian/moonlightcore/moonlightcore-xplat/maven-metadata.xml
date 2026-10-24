@@ -3,8 +3,8 @@
   <groupId>de.leoxian.moonlightcore</groupId>
   <artifactId>moonlightcore-xplat</artifactId>
   <versioning>
-    <latest>26.1.2.13-beta</latest>
-    <release>26.1.2.13-beta</release>
+    <latest>26.1.2.14-beta</latest>
+    <release>26.1.2.14-beta</release>
     <versions>
       <version>26.1.2.2-beta</version>
       <version>26.1.2.3-beta</version>
@@ -17,7 +17,8 @@
       <version>26.1.2.11-beta</version>
       <version>26.1.2.12-beta</version>
       <version>26.1.2.13-beta</version>
+      <version>26.1.2.14-beta</version>
     </versions>
-    <lastUpdated>20261024205312</lastUpdated>
+    <lastUpdated>20261024205527</lastUpdated>
   </versioning>
 </metadata>
