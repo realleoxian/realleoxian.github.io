@@ -28,11 +28,11 @@
         {
           "name": "moonlightcore-fabric-26.1.2.13-beta.jar",
           "url": "moonlightcore-fabric-26.1.2.13-beta.jar",
-          "size": 510355,
-          "sha512": "b2bfaa525a57f1d7743d9457de9e6de422fa97ff9576dfa7e10ae0ebf68204afdf973415e07bdd20673e7aaa2c2a084b7ced88ecdd0ce92dac3bd61aac52fa53",
-          "sha256": "86d82bbe20e86c38163d92168404af206625ff7fcfff337e5f1c24b9c1c7fa8b",
-          "sha1": "11db3e379219e515c2647d501286f294ffdca8bb",
-          "md5": "ff8da506f223f7f1b29d5e8ae25eafca"
+          "size": 514403,
+          "sha512": "ff77c35e1e5e230692d247189a79bc785ec4ba4636042165db2fe3dfcfb36edd05d18e77497147091da6fb6798a657ba8f27481affb16cdaa99f1894ba083d1c",
+          "sha256": "cda8e2f9e3bd700f7495230c3273461bab4fb67e0c4b6557f77b376108b3ddd6",
+          "sha1": "b0f27dd7c615ca904e7ae1cdd72ad65a98dc72b9",
+          "md5": "2b6d8d4116efc66c10137109fd964ed9"
         }
       ]
     },
@@ -73,11 +73,11 @@
         {
           "name": "moonlightcore-fabric-26.1.2.13-beta.jar",
           "url": "moonlightcore-fabric-26.1.2.13-beta.jar",
-          "size": 510355,
-          "sha512": "b2bfaa525a57f1d7743d9457de9e6de422fa97ff9576dfa7e10ae0ebf68204afdf973415e07bdd20673e7aaa2c2a084b7ced88ecdd0ce92dac3bd61aac52fa53",
-          "sha256": "86d82bbe20e86c38163d92168404af206625ff7fcfff337e5f1c24b9c1c7fa8b",
-          "sha1": "11db3e379219e515c2647d501286f294ffdca8bb",
-          "md5": "ff8da506f223f7f1b29d5e8ae25eafca"
+          "size": 514403,
+          "sha512": "ff77c35e1e5e230692d247189a79bc785ec4ba4636042165db2fe3dfcfb36edd05d18e77497147091da6fb6798a657ba8f27481affb16cdaa99f1894ba083d1c",
+          "sha256": "cda8e2f9e3bd700f7495230c3273461bab4fb67e0c4b6557f77b376108b3ddd6",
+          "sha1": "b0f27dd7c615ca904e7ae1cdd72ad65a98dc72b9",
+          "md5": "2b6d8d4116efc66c10137109fd964ed9"
         }
       ]
     },
@@ -94,11 +94,11 @@
         {
           "name": "moonlightcore-fabric-26.1.2.13-beta-sources.jar",
           "url": "moonlightcore-fabric-26.1.2.13-beta-sources.jar",
-          "size": 220703,
-          "sha512": "2d3874883310a471a83a83b502ecc23e83945e1de78f3b550c209f240cb7d7ec33b14d983bd52571083c7899c1a7fe6e6e8b3258c1d8060c10bf2b4c64d70326",
-          "sha256": "bb35c3d634d4947aacccbf1e0a3f610b877c1761aba148d2bd70541d46b748af",
-          "sha1": "1a39c3308b1b852f054c671b58ad660e1b3807e8",
-          "md5": "948f298fc093f00f99dfa11e88a5918a"
+          "size": 222974,
+          "sha512": "103b12052ea307ae1ebb2c7b8d67728d635bb1ee6a2dab6606efa081b71b243bb2f3592c2a7b5f470bd7c42a1d3ce406a588dd1449c6f0e54eb882613a53bbd8",
+          "sha256": "c251a39ce4000a5fd28e756e0072c0287d4212e244e8e38e3420b0c81845b4cb",
+          "sha1": "7aee0e1a530d146c76adb244eb7beb7217d35339",
+          "md5": "276c5c85deed2585b76373a308145adf"
         }
       ]
     },
@@ -115,11 +115,11 @@
         {
           "name": "moonlightcore-fabric-26.1.2.13-beta-javadoc.jar",
           "url": "moonlightcore-fabric-26.1.2.13-beta-javadoc.jar",
-          "size": 5694664,
-          "sha512": "c26f813525f7bf83fea6d14c4b9e59ff5b3465ad3cc056ee0f651e802441c744ba0ef0c0ac436a8d2bad1429f7e88189e0a28207a6a76a5ff1da48da7c23bcc6",
-          "sha256": "1ab6c767feba2504546d07066309c4d1f7d08813d787a488ad63e04cbdbb1d03",
-          "sha1": "dffabfe2131c0959f1514c73bc02d3a2097ada4b",
-          "md5": "f253467f63f2d193c4646fe3cd3bfffc"
+          "size": 5704203,
+          "sha512": "00ee70a5927ac4d0d5c552ff6e14290b11409cd602ddffe109d0fb7e44e9f05f988bfabdf1282ba8c8fd333b25ae881e7dea1d29d1355264b61efa2507414dda",
+          "sha256": "9bf84559d732734a3ab7d18654f3ade967cb6dc264b146cdf510859d1ef107ef",
+          "sha1": "1438a2bedd0f889316d8fea3d56baabdfd84c628",
+          "md5": "3bf162d5f5cf9d389ea00d7819e7a013"
         }
       ]
     }
